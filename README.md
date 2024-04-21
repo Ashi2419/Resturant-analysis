@@ -1,2 +1,2 @@
 # Resturant-analysis
-It help to analyze the data of Resturants which was gather from the different sources.
+In this project you can see the data related to resturant system in which many fields included like coustomer,services, months wise revenue and many more.
